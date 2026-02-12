@@ -1,12 +1,10 @@
 ---
 name: convention-challenge
-description: Systematically identify and dismantle "we've always done it this way"
-  thinking by exposing assumptions, questioning their validity, and demonstrating
-  alternatives.
+description: Systematically identify and dismantle "we've always done it this way" thinking by exposing assumptions, questioning their validity, and demonstrating alternatives.
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
 - convention-challenge
 - structure
